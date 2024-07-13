@@ -1,0 +1,63 @@
+body{
+	background-color:#0c001f;
+}
+#bb{
+	float: left;
+	text-align:center;
+}
+#bt{
+	text-align:center;
+}
+.w{
+	color: #FFF;
+}
+.ca:link{
+	padding: 25px;
+	background-color: darkgreen;
+	text-decoration: none;
+	color: #FFF;
+	margin-left: 0px;
+}
+.ca:visited{
+	padding: 25px;
+	background-color: darkgreen;
+	text-decoration: none;
+	color: #FFF;
+}
+.ca:hover{
+	padding: 25px;
+	background-color: darkgreen;
+	text-decoration: none;
+	color: #FFF;
+}
+.ca:active{
+	padding: 25px;
+	background-color: darkgreen;
+	text-decoration: none;
+	color: #FFF;
+}
+.cb:link{
+	padding: 25px;
+	background-color: green;
+	text-decoration: none;
+	color: #FFF;
+	margin-left: -5px;
+}
+.cb:visited{
+	padding: 25px;
+	background-color: green;
+	text-decoration: none;
+	color: #FFF;
+}
+.cb:hover{
+	padding: 25px;
+	background-color: darkseagreen;
+	text-decoration: none;
+	color: #FFF;
+}
+.cb:active{
+	padding: 25px;
+	background-color: darkgreen;
+	text-decoration: none;
+	color: #FFF;
+}
